@@ -4,18 +4,18 @@ package myquote
     "rsc.io/quote"
     )
 
-    func hello() {
+    func Hello() {
     fmt.Println(quote.Hello())
     }
 
-    func opt(){
+    func Opt(){
     fmt.Println(quote.Opt)
     }
 
-    func glass(){
+    func Glass(){
     fmt.Println(quote.Glass)
     }
 
-    func go(){
+    func Go(){
         fmt.Println(quote.Go)
         }

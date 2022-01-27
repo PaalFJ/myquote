@@ -9,13 +9,13 @@ package myquote
     }
 
     func Opt(){
-    fmt.Println(quote.Opt)
+    fmt.Println(quote.Opt())
     }
 
     func Glass(){
-    fmt.Println(quote.Glass)
+    fmt.Println(quote.Glass())
     }
 
     func Go(){
-        fmt.Println(quote.Go)
+        fmt.Println(quote.Go())
         }
